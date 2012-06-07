@@ -1,15 +1,15 @@
 {
-    "name": "forms",
+    "name": "forms2",
     "description": "An easy way to create, parse, and validate forms",
     "main": "./index",
-    "author": "Caolan McMahon",
-    "version": "0.1.1",
+    "author": "Caolan McMahon and Dmitry Bashkatov",
+    "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "http://github.com/caolan/forms.git"
+        "url": "http://github.com/nailgun/node-forms2.git"
     },
     "bugs": {
-        "url": "http://github.com/caolan/forms/issues"
+        "url": "http://github.com/nailgun/node-forms2/issues"
     },
     "dependencies": {
         "async": "0.1.15"
@@ -17,7 +17,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "http://github.com/caolan/forms/raw/master/LICENSE"
+            "url": "http://github.com/nailgun/node-forms2/raw/master/LICENSE"
         }
     ]
 }
